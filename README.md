@@ -2,6 +2,8 @@
 
 **Live demo:** [algoviz-jeevan.vercel.app](https://algoviz-jeevan.vercel.app)
 
+![AlgoViz sorting a bar chart with the pseudocode panel highlighting the current line](docs/screenshot.jpg)
+
 An interactive way to understand the algorithms that come up in coding interviews. Step through seven sorting algorithms one compare, swap or write at a time, with the executing pseudocode line highlighted, or race two of them on the same input. Then switch to the grid: draw walls and weights, drag the start and target, generate a maze, and watch BFS, DFS, Dijkstra, A*, Greedy best-first and Bidirectional BFS explore it.
 
 **Tech:** React 19 · TypeScript (strict) · Vite 8 (Rolldown) · Tailwind CSS v4 · Lucide icons. No other runtime dependencies.
